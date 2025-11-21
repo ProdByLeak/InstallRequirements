@@ -1,1 +1,1 @@
-Drag into the folder you desire to install the requirements in and run the script.
+drag the .py into the folder with the requirements file and run it. Just like that, all of the requirements are installed!
